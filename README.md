@@ -18,6 +18,14 @@ Additionally, this GPT is tailored to troubleshooting and problem-solving. When 
 [Language School](https://github.com/sourceduty/Language_School)
 <br>
 [Business School](https://github.com/sourceduty/Business_School)
+<br>
+[Windows](https://github.com/sourceduty/Windows)
+<br>
+[Linux OS Simulator](https://github.com/sourceduty/Linux_OS_Simulator)
+<br>
+[Arch Linux Simulator](https://github.com/sourceduty/Arch_Linux_Sim)
+<br>
+[Termux](https://github.com/sourceduty/Termux)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
