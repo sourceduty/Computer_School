@@ -1,6 +1,6 @@
 ![Computer School](https://github.com/user-attachments/assets/810656d4-9c8a-4d92-b36e-3a437e8cee75)
 
-> Learn how to use any computer's OS.
+> Learn how to use any OS.
 
 #
 
