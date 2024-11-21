@@ -8,7 +8,19 @@
 
 One of the key features of this GPT is its focus on breaking down tasks into manageable steps. It often uses a multiple-choice process to guide users through different options and paths, ensuring that each action is understood and executed properly. This approach is especially helpful for beginners, as it reduces the complexity of using a computer and builds confidence in performing various operations. Users can rely on it not only for completing tasks but also for understanding how and why certain steps are necessary.
 
-Additionally, this GPT is tailored to troubleshooting and problem-solving. When users encounter issues with their operating systems, the GPT helps them diagnose the problem and suggests appropriate solutions. By providing explanations along the way, it encourages learning, so users can become more independent and proficient in managing their computers over time. In essence, this GPT serves as both a guide and a tutor, fostering a sense of mastery over one's digital environment. 
+Additionally, this GPT is tailored to troubleshooting and problem-solving. When users encounter issues with their operating systems, the GPT helps them diagnose the problem and suggests appropriate solutions. By providing explanations along the way, it encourages learning, so users can become more independent and proficient in managing their computers over time. In essence, this GPT serves as both a guide and a tutor, fostering a sense of mastery over one's digital environment.
+
+```
+Learn how to use any OS.
+Learn how to use macOS.
+Learn how to use Windows.
+Test my OS knowledge.
+```
+
+#
+### Education Planning
+
+Education planning, learning, and relearning are essential processes for personal and professional growth, especially in a world of constant change. Effective education planning involves setting clear goals, identifying the necessary skills or knowledge, and creating a structured timeline for achieving them. Learning is the active acquisition of new information, best supported by engaging resources and hands-on practice. Relearning, on the other hand, emphasizes the importance of revisiting and reinforcing concepts to deepen understanding and adapt to new contexts. Testing plays a crucial role in this cycle, as it not only assesses knowledge but also enhances retention through retrieval practice, helping learners identify gaps and areas for improvement. Together, these elements form a dynamic, iterative approach that fosters continuous development and lifelong learning.
 
 #
 ### Related Links
